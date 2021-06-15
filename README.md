@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<table>
+  <tr>
+    <td><a href="https://github.com/tadasv/log">Personal Log</a></td>
+    <td><a href="https://github.com/tadasv/zet">Notes</a></td>
+  </tr>
+</table>
+
 <!--
 **tadasv/tadasv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
