@@ -1,13 +1,5 @@
 ### Hi there 👋
 
-<table>
-  <tr>
-    <td><a href="https://github.com/tadasv/log">Personal Log</a></td>
-    <td><a href="https://github.com/tadasv/zet">Notes</a></td>
-  </tr>
-</table>
-
-
 [![github stats](https://github-readme-stats.vercel.app/api?username=tadasv&show_icons=true&include_all_commits=false&count_private=true)](https://github.com/tadasv)
 
 <!--
