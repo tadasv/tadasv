@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi there 👋
+
+## Personal writing
+
+[TIL](https://github.com/tadasv/til) - Today I learned. A collection of ever growing notes/learnings. Hosted at [til.vilkeliskis.com](https://til.vilkeliskis.com).
 
 <!--
 **tadasv/tadasv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
